@@ -33,10 +33,4 @@ others/*.tar
 docs/c_examples
 problems/
 .vscode/
-examples/
-ipython_examples/
-legacy/
-others/
-src/
-python_examples/
-rebound/
+
